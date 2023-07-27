@@ -1,2 +1,2 @@
-# First-Project
-my first project learning git
+# First-Project 
+my first project learning git Hello World
